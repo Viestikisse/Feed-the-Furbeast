@@ -1,7 +1,8 @@
 # Feed-the-Furbeast
 All scripts for the game project named Feed the Furbeast
 
-AudioManager:
+AudioManager: Brackeys, https://www.youtube.com/watch?v=6OT43pvUyfY&t=628s
+Working with the Sound script. Manager for sound effects.
 
 ClickAndDrag: Nade, https://www.youtube.com/watch?v=eUWmiV4jRgU
 For making the food objects interactable. The player can click and drag them around the screen.
@@ -18,7 +19,8 @@ For Furby dialogues and player options.
 DialogueManager: Blackthornprod, https://www.youtube.com/watch?v=f-oSXg6_AMQ
 Working together with the Dialogue script.
 
-DropDown:
+DropDown: Press Start, https://www.youtube.com/watch?v=E7gmylDS1C4&t=7s
+Forcing the food objects to fall down.
 
 EatingAnim:
 Defining when to switch from normal animation into eating animation.
@@ -33,12 +35,16 @@ MainMenu: Brackeys, https://www.youtube.com/watch?v=zc8ac_qUXQY
 Enabling interaction with menu buttons.
 
 MoveCorner:
+Moving the Main menu's background slowly to the left.
 
-OptionsMenu:
+OptionsMenu: Brackeys, https://www.youtube.com/watch?v=YOaYQrN1oYQ&t=312s
+Making option for switching the volume in Options menu.
 
 PlayerController:
+Letting the player move within the screen boundaries.
 
 RepeatBackground:
+Resetting the Main menu's background position once it has moved the complete duration.
 
 Score: Press Start, https://www.youtube.com/watch?v=aFArhpJB86s; https://learn.unity.com/tutorial/scoring-finishing-and-building-the-game#
 Managing scoring mechanics.
